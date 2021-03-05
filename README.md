@@ -4,7 +4,7 @@
 
 > 📍 Ce projet est celui de [Micode](https://youtu.be/DBnStqiLB-Q)
 
-## Steps
+## Etape
 
 ```sh
 - git clone https://github.com/TapsHTS/ascii-cam
