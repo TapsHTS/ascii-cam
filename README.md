@@ -1,4 +1,4 @@
-### 🎥 ASCII-CAM
+### 🎥 ASCII-CAM (Forked from [micodeyt/ascii-webcam](https://github.com/micodeyt/ascii-webcam))
 
 ## INFO
 
